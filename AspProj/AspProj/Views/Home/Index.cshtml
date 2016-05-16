@@ -1,0 +1,19 @@
+﻿@{
+    if (this.User.Identity.IsAuthenticated)
+    {
+       @Html.Partial("../AuthorizedPartial") 
+    }
+    else
+    {
+        @Html.Partial("../LogOrReg") 
+    }
+}
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Добро пожаловать на дружелюбный сайтик!</h2>
+
+

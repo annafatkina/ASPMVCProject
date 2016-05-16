@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<LANGUAGES>
+  <LANG>
+    <ID>45</ID>
+    <ISO>RU</ISO>
+    <ENGLISH>Russian</ENGLISH>
+    <LOCAL>Русский</LOCAL>
+  </LANG>
+  <LANG>
+    <ID>570</ID>
+    <ISO>EN</ISO>
+    <ENGLISH>English</ENGLISH>
+    <LOCAL>English</LOCAL>
+  </LANG>
+</LANGUAGES>
